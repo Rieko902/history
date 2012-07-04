@@ -52,4 +52,14 @@
 		<photo_loc>Camping</photo_loc>
 		<thumb_caption>Starfish</thumb_caption>
 	</photo>
+	<photo id="5">
+		<filename>2012-flower.jpg</filename>
+		<geo>
+			<lat>49.28352590109962</lat>
+			<lon>-123.114144800935</lon>
+		</geo>
+		<photo_city>Vancouver, BC</photo_city>
+		<photo_loc>Vanarts</photo_loc>
+		<thumb_caption>Flower</thumb_caption>
+	</photo>
 </album>
